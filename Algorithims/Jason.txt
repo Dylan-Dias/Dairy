@@ -1,0 +1,142 @@
+Dairy Bovine Health 
+What Breed of Dairy Bovine is prone to each illness 
+
+Mastitis 
+- Holstein and Jersey 
+- Holsteins tend to have higher milk production, which can increase the risk of mastitis. Jerseys are also at risk due to their smaller udder size, which can sometimes lead to issues with milk flow and teat injuries.
+
+Dystocia and Retained Placenta 
+- Holstein, Brown Swiss 
+-  Larger breeds like Holstein are more prone to dystocia (difficult birth) due to their size. Brown Swiss, though large, are often bred for better calving ease but still have risks.
+
+Dystocia and Retained Placenta
+- Holstein, Brown Swiss
+- Larger breeds like Holstein are more prone to dystocia (difficult birth) due to their size. Brown Swiss, though large, are often bred for better calving ease but still have risks
+
+Subclinical Ketosis 
+- Holstein, Ayrshire, Brown Swiss
+- High-producing breeds such as Holstein and Ayrshire are at risk of metabolic disorders like ketosis due to the high demand for energy post-calving.
+
+Displaced Abomasum 
+- Holstein, Jersey, Ayrshire
+- Large, high-producing breeds like Holsteins are at greater risk due to their high feed intake and rapid lactation. Jerseys are more prone to digestive issues due to their smaller stomach size.
+
+Acidosis
+- Holstein, Ayrshire, Jersey 
+- High-producing dairy cows (especially Holsteins) are more prone to acidosis, a condition related to the rapid fermentation of high-starch feeds in the rumen, which is common in intensive dairy systems.
+
+Laminitis
+- Holstein, Jersey, Guernsey
+- Holsteins are the most susceptible to laminitis due to their large body size and the demands of high milk production. Jerseys, although smaller, can still develop laminitis due to high feed intake and intensive management.
+
+Tuberculosis
+- Any breed (depends on the herd's management and biosecurity)
+- Tuberculosis is a contagious disease that can affect any breed if biosecurity measures are not followed. High-density farming and improper management increase the risk.
+
+Bluetongue
+- All dairy breeds, but more common in tropical and subtropical areas
+- Bluetongue is transmitted by insects (biting midges), and while all breeds are at risk, it is more common in warmer climates where these insects are prevalent.
+
+Vesicular Stomatitis
+- All breeds (infected via direct contact)
+- This viral disease affects cows of all breeds, particularly during outbreaks in certain geographic regions.
+
+Bovine Spongiform Encephalopathy (BSE)
+- All breeds (BSE is not breed-specific but is linked to feeding practices)
+- BSE is caused by prions, and it affects all cattle. It is linked to the consumption of contaminated feed. Strict regulations have minimized its risk, especially in countries with BSE outbreaks.
+
+Mycoplasma bovis
+- Holstein, Jersey, Ayrshire
+- Mycoplasma infections are common in dairy herds, particularly in high-density environments with intensive milking. Holsteins and Jerseys are often at risk due to their higher production levels and susceptibility to mastitis.
+
+Staphylococcus aureus
+- Holstein, Jersey
+- Holsteins, due to their high milk production, can be more prone to infections like Staphylococcus aureus, which can cause chronic mastitis.
+
+Streptococcus agalactiae
+- Holstein, Jersey
+- Similar to Staphylococcus aureus, Streptococcus agalactiae is a common mastitis-causing pathogen, especially in high-production dairy breeds.
+
+Bovine Viral Diarrhea (BVD)
+- All breeds, but especially in herds with poor biosecurity
+- BVD can affect all cattle, but herds with insufficient vaccination and biosecurity measures are at higher risk.
+
+Salmonellosis
+- All breeds (depends on herd management)
+- Salmonella can affect all breeds, especially under unsanitary conditions. However, Holstein herds with high-density management are often at higher risk.
+
+Paratuberculosis (Johne's Disease)
+- Holstein, Jersey, Ayrshire
+- Holsteins are particularly susceptible due to the high population density in commercial herds. Johne's disease is often more prevalent in older cows and can cause long-term production losses.
+
+Pneumonia
+- Holstein, Jersey (especially in calves)
+- Pneumonia is common in calves, particularly in dairy breeds like Holsteins and Jerseys, which are often raised in high-density environments that can lead to respiratory issues.
+
+Foot and Mouth Disease
+- All breeds (affects cattle worldwide)
+- This disease affects cattle of all breeds, with no specific breed preference. It spreads rapidly, and biosecurity measures are key in its prevention.
+
+Bloating
+- Holstein, Jersey
+- Bloating is often related to diet and digestive issues. Holsteins and Jerseys are more likely to develop bloating due to their feeding regimes, which include high-fiber or high-starch feeds.
+
+What Grains do each Cow Breed Eat 
+
+American Lineback 
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay 
+
+Ayrshire
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay 
+
+Brown Swiss
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay 
+
+Girolando
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay 
+
+Guernsey
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay 
+
+Holstein
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay 
+
+Jersey
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay 
+
+Red and White Holstein
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay 
+
+Red Sindhi
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay 
+
+Shorthorn Milking
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay 
+
+International Red Dairy
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay 
+
+Milking Devon
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay 
+
+Norwegian Red and White
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay 
+
+Swedish Red and White
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay 
+
+Dairy Crossbreeds
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay
+ 
+Dairy and Beef Crossbreeds
+Corn , Barley , Oats , Wheat , Sorghum , Rye , Triticale , Millet , Alfalfa Hay 
+
+
+recommendations = []
+    for cow_id, var in cow_vars.items():
+        if pulp.value(var) == 1:
+            cow_row = df[df['Cow_ID'] == cow_id].iloc[0]
+            if cow_row['Feed_Type'] == 'Corn':
+                recommendations.append(f"Cow {cow_id} - Continue with corn for energy.")
+            elif cow_row['Feed_Type'] == 'Alfalfa':
+                recommendations.append(f"Cow {cow_id} - Maintain alfalfa for protein.")

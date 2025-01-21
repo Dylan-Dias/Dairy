@@ -1,0 +1,143 @@
+/* Dashboard.module.css */
+
+/* Container styling */
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Header styling */
+.header {
+    font-size: 2rem;
+    color: #4CAF50;
+}
+
+/* Dropdown Styles */
+.dropdown {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.dropbtn {
+    background-color: #45a049;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.dropbtn:hover,
+.dropbtn:focus {
+    background-color: #45a049;
+}
+
+.dropdownContent {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 4px;
+}
+
+.dropdownContent a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdownContent a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdownContent {
+    display: block;
+}
+
+/* Milking Parlor Container */
+.milkingParlorContainer {
+    margin: 30px auto; /* Vertical space from the rest of the content */
+    padding: 40px; /* Padding inside the container for spacing */
+    background-color: #f9f9f9;
+    border: 2px solid #000000;
+    border-radius: 12px;
+    max-width: 500px; /* Limits the width */
+    text-align: center; /* Centers the content */
+    word-spacing: -1px;
+}
+
+.milkingCapacityInput {
+    width: 100%; /* Full width for the input */
+    padding: 10px 10px; /* Adds padding inside the input */
+    margin-bottom: 10px; /* Adds space below the input field */
+    border: 1px solid #000000; /* Border style */
+    border-radius: 8px; /* Rounded corners */
+}
+
+/* Table Section */
+.tableContainer {
+    margin: 45px auto;
+    text-align: center;
+    width: 100%;
+    max-width: 2500px; /* Increased table width */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 2px solid #0f0e0e;
+}
+
+th, td {
+    padding: 12px 15px; /* Increased padding for better readability */
+    text-align: center;
+}
+
+th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+/* Button Container for Add Row, Delete Row, and Submit */
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+    gap: 15px; /* Added more space between buttons */
+    margin-top: 20px;
+}
+
+/* Button Styling */
+.button {
+    padding: 12px 24px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+/* File Input */
+.uploadContainer {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.fileInput {
+    margin-top: 10px;
+    padding: 10px;
+}
