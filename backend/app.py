@@ -2,6 +2,8 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS  # Import Flask-CORS
 import psycopg2
 from scheduler import optimize_milking_schedule
+from flask import Flask, g
+
 
 app = Flask(__name__)
 
@@ -52,7 +54,11 @@ def submit_cow_data():
     
     return jsonify({'message': 'Data submitted successfully!'}), 200
 
-    
+@app.teardown_appcontext
+def close_db_connection(exception):
+    if 'db_conn' in g:
+        g.db_conn.close()
+
 
 @app.route('/api/schedule', methods=['GET'])
 def generate_schedule():
